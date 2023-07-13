@@ -11,7 +11,7 @@ The main purpose of this project is to demonstrate my experience with data engin
 - Module_1
 
 ## Module 1. The role of Analytics in the Organization.
-###Architecture of The Analytical Solution.
+### Architecture of The Analytical Solution.
 
 This is Data Architecture for fiction company named "FutureTech". 
 Here is some information about this fiction company.
@@ -94,7 +94,7 @@ The Access layer includes:
    from the data (Python).
  
 
-###Analytics in Excel
+### Analytics in Excel
 The Superstore.xlsx file contains several reports that analyze the input data in various aspects.   
 Here is the list of reports.
 
@@ -107,8 +107,10 @@ Overview (обзор ключевых метрик)
  - Avg. Discount
  - Monthly Sales by Segment ( табличка и график)
  - Monthly Sales by Product Category (табличка и график)
+ 
 Product Dashboard (Продуктовые метрики)
  - Sales by Product Category over time (Продажи по категориям)
+ 
 Customer Analysis
  - Sales and Profit by Customer
  - Customer Ranking
